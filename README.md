@@ -1,3 +1,3 @@
 # boulder-project
-Send Journal Project
-check back in for updates
+Send Journal Project.
+-Check back often for updates and new tools. 
